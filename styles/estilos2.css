@@ -12,25 +12,13 @@
 body {
     background-size: 600% 600%;
     animation: gradientBG 20s ease infinite;
-    background-image: url(./../imgs/CARATULA-\(2\).png);
+    background-image: url(https://i.pinimg.com/736x/b5/68/38/b56838358626a1ae4629298d739b269c.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
     background-color: #ffffff !important;
     color: #333333 !important;
     overflow-x: hidden;
-}
-
-.contain-principal {
-    background: linear-gradient(270deg, #aec8dd, #35193398, #250e2073, #35113363);
-    background-size: 600% 600%;
-    animation: gradientBG 20s ease infinite;
-    background-image: url(./../imgs/CARATULA-\(2\).png);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-    height: 100vh;
-    border: none;
 }
 
 .ingreso {
@@ -563,6 +551,9 @@ h4 {
     transition: transform 0.3s;
     padding-bottom: 100px;
 }
+
+
+
 
 
 @media (max-width: 768px) {
