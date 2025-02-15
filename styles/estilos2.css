@@ -565,25 +565,6 @@ h4 {
 }
 
 
-@media (prefers-color-scheme: dark) {
-
-    body .content-container a,
-    body .content-container2 a {
-        font-family: 'Playfair Display' !important;
-        font-weight: 500;
-        letter-spacing: 2px;
-    }
-
-    body {
-        background-color: #ffffff !important;
-        /* Siempre blanco */
-        color: #333333 !important;
-        /* Siempre negro */
-    }
-}
-
-
-
 @media (max-width: 768px) {
 
     html body {
